@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    padding: 1rem 2rem;
+    background: goldenrod;
+    color: green;
+    border: none;
+}
